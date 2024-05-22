@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Chee👋
 
-<!--
-**cheemurakami/cheemurakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced software engineer proficient in TypeScript, Next.js, Ruby on Rails, and React. Developed bespoke CRM applications, mentored interns, and created innovative tools for large user bases. Passionate about building impactful solutions that enhance user experiences.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active Technologies
+JavaScript, TypeScript, Next.js, Ruby on Rails, HTML, CSS, PostgreSQL, NodeJS, GraphQL, React, React Native, Expo, Prisma, Redux, Redis, Rspec, Jest / RTL, Elasticsearch, GCP, RESTful APIs
+
+- 🔭 I’m currently working on building a Next.js app for the Navajo financial aid office.
+- 🌱 I’m currently learning about AI!
+- 👯 I’m looking to collaborate on building web/mobile applications!
+- 💬 Ask me about my React and Rails experiences.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chee-murakami/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm good at Tetris and playing keyboard! My current boss is my 13 yo black cat. 🐈‍⬛
